@@ -15,7 +15,7 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-This icons is inspirated in Vista.
+This icon theme is inspired by Vista.
 
 %description -l pl.UTF-8
 Jest to motyw oparty na Windows Vista.
