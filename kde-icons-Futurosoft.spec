@@ -7,7 +7,7 @@ Version:	0.5.1
 Release:	1
 License:	GPL
 Group:		Themes
-Source0:	http://i-soldi.com/futurosoft//%{_name}-Icons-%{version}.tar.gz
+Source0:	http://i-soldi.com/futurosoft/%{_name}-Icons-%{version}.tar.gz
 # Source0-md5:	c342c2a898911b00b1a6e26626dad771
 URL:		http://www.kde-look.org/content/show.php?content=50667
 Requires:	kdelibs
